@@ -1,7 +1,6 @@
 {
-  "name": "f",
+  "name": "ts cheat sheet",
   "version": "1.0.0",
-  "description": "ts  starter project",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
