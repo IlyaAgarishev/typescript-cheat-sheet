@@ -1,1 +1,1 @@
-Just a ts generics cheat sheet
+Just a typescript cheat sheet
